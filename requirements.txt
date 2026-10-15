@@ -1,0 +1,10 @@
+# Versions the notebook was tested with
+numpy==2.1.3
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+geopandas==1.0.1
+
+# Needed to read Parquet files and to run the notebook
+pyarrow
+jupyter

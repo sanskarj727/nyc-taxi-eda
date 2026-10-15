@@ -1,0 +1,17 @@
+# Data is public but large: download it as described in data/README.md
+data/raw/
+data/processed/
+data/taxi_zones/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+.env
+.DS_Store
